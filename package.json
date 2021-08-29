@@ -1,0 +1,41 @@
+{
+    "name": "js-ts",
+    "displayName": "js-ts",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "marcpaul",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcpaul/vscode-js-ts.git"
+    },
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "pivotal.vscode-manifest-yaml",
+        "fofolee.crypto-tools",
+        "pranaygp.vscode-css-peek",
+        "dbaeumer.vscode-eslint",
+        "hyunkyunmoon.gzipdecompressor",
+        "wix.vscode-import-cost",
+        "sburg.vscode-javascript-booster",
+        "mariusalchimavicius.json-to-ts",
+        "ghmcadams.lintlens",
+        "philnash.ngrok-for-vscode",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "esbenp.prettier-vscode",
+        "cipchk.cssrem",
+        "stylelint.vscode-stylelint",
+        "jock.svg",
+        "dakara.transformer",
+        "chakrounanas.turbo-console-log",
+        "pflannery.vscode-versionlens",
+        "a-bentofreire.vsctoix",
+        "mikestead.dotenv",
+        "wayou.vscode-todo-highlight"
+    ]
+}

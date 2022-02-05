@@ -1,50 +1,48 @@
 {
-    "name": "js-ts",
-    "displayName": "js-ts",
-    "description": "",
-    "version": "0.0.2",
-    "publisher": "marcpaul",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/marcpaul/vscode-js-ts.git"
-    },
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "a-bentofreire.vsctoix",
-        "andyyaldoo.vscode-json",
-        "chakrounanas.turbo-console-log",
-        "christian-kohler.npm-intellisense",
-        "cipchk.cssrem",
-        "dakara.transformer",
-        "dbaeumer.vscode-eslint",
-        "eg2.vscode-npm-script",
-        "esbenp.prettier-vscode",
-        "fofolee.crypto-tools",
-        "ghmcadams.lintlens",
-        "hyunkyunmoon.gzipdecompressor",
-        "jock.svg",
-        "mariusalchimavicius.json-to-ts",
-        "mikestead.dotenv",
-        "pflannery.vscode-versionlens",
-        "philnash.ngrok-for-vscode",
-        "pivotal.vscode-manifest-yaml",
-        "pranaygp.vscode-css-peek",
-        "sburg.vscode-javascript-booster",
-        "stylelint.vscode-stylelint",
-        "wayou.vscode-todo-highlight",
-        "wix.vscode-import-cost",
-        "dskwrk.vscode-generate-getter-setter",
-        "rbbit.typescript-hero",
-        "quicktype.quicktype",
-        "ephoton.indent-switcher",
-        "shakram02.bash-beautify",
-        "deque-systems.vscode-axe-linter",
-        "webhint.vscode-webhint",
-        "gitlab.gitlab-workflow"
-    ]
+	"name": "js-ts",
+	"displayName": "js-ts",
+	"description": "",
+	"version": "0.0.2",
+	"publisher": "marcpaul",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/marcpaul/vscode-js-ts.git"
+	},
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"a-bentofreire.vsctoix",
+		"andyyaldoo.vscode-json",
+		"chakrounanas.turbo-console-log",
+		"christian-kohler.npm-intellisense",
+		"cipchk.cssrem",
+		"dakara.transformer",
+		"dbaeumer.vscode-eslint",
+		"eg2.vscode-npm-script",
+		"esbenp.prettier-vscode",
+		"fofolee.crypto-tools",
+		"ghmcadams.lintlens",
+		"hyunkyunmoon.gzipdecompressor",
+		"jock.svg",
+		"mariusalchimavicius.json-to-ts",
+		"mikestead.dotenv",
+		"pflannery.vscode-versionlens",
+		"philnash.ngrok-for-vscode",
+		"pivotal.vscode-manifest-yaml",
+		"pranaygp.vscode-css-peek",
+		"sburg.vscode-javascript-booster",
+		"stylelint.vscode-stylelint",
+		"wayou.vscode-todo-highlight",
+		"wix.vscode-import-cost",
+		"dskwrk.vscode-generate-getter-setter",
+		"rbbit.typescript-hero",
+		"quicktype.quicktype",
+		"ephoton.indent-switcher",
+		"shakram02.bash-beautify",
+		"gitlab.gitlab-workflow"
+	]
 }

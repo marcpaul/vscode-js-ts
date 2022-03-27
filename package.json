@@ -17,10 +17,8 @@
 	],
 	"extensionPack": [
 		"andyyaldoo.vscode-json",
-		"chakrounanas.turbo-console-log",
 		"christian-kohler.npm-intellisense",
 		"cipchk.cssrem",
-		"dakara.transformer",
 		"dbaeumer.vscode-eslint",
 		"dskwrk.vscode-generate-getter-setter",
 		"eg2.vscode-npm-script",
@@ -33,7 +31,6 @@
 		"mariusalchimavicius.json-to-ts",
 		"mikestead.dotenv",
 		"pflannery.vscode-versionlens",
-		"philnash.ngrok-for-vscode",
 		"pivotal.vscode-manifest-yaml",
 		"pranaygp.vscode-css-peek",
 		"quicktype.quicktype",
